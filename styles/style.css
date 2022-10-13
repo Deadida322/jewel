@@ -51,6 +51,9 @@ select{
 .yellow-text{
     color: #aaaa05 !important;
 }
+.blue-text{
+    color: #055aaa !important;
+}
 .head{
     padding: 0 4em;
     z-index: 0px;
@@ -114,6 +117,7 @@ option{
     justify-content: center;
     padding: 1em 2em;
     width: 60%;
+    min-width: 500px;
     background-color:#fff;
     -webkit-box-shadow: 0px -1px 23px 15px rgba(118, 255, 240, 0.2) inset;
     -moz-box-shadow: 0px -1px 23px 15px rgba(118, 255, 240, 0.2) inset;
